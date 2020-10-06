@@ -1,3 +1,10 @@
+# Introduction to MERN: MongoDB; Express; React & Node.js;
+
+Tutorial: https://www.youtube.com/watch?v=jJmrrVqVdUM; <br />
+Repository: https://github.com/wbleonard/mern-stack-part-04; <br />
+Code sandbox: https://codesandbox.io/s/github/wbleonard/mern-stack-part-04 - starting point; <br />
+
+
 # The MERN Stack Evolved 
 
 This repository contains supporting resources for a workshop on migrating Node.js Express applications to [MongoDB Realm. ](https://www.mongodb.com/cloud/stitch)
